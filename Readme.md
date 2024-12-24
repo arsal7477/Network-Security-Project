@@ -30,8 +30,7 @@ You can either:
 2. **Run Locally**: Clone the repository and run the Python script or Jupyter notebook on your local machine:
 
 ```bash
-git clone https://github.com/arsal7477/Network-Security-Project/new/main
-jupyter notebook your_notebook.ipynb
+git clone https://github.com/arsal7477/Network-Security-Project/blob/main/Intrusion%20Detection%20System%20Using%20K-Means%20Clustering%20Algorithm.ipynb
 ```
 
 If you're running the notebook on Google Colab, all required libraries are pre-installed, so you can skip the installation.
